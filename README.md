@@ -100,13 +100,14 @@ if($result === TRUE) {
 - HTML/CSS
 - Bootstrap
 - Git & GitHub
+  
+🤝 Contribution & Thanks
+Inspired by community needs in Sudan.
+UI based on open-source tutorials adapted for volunteer work context.
 
 📬 Contact
 Feel free to reach out via email: osmanhasspo@gmail.com
 Or visit my LinkedIn: https://www.linkedin.com/in/osman-hassabalrsoul-594419224/
 X(Twitter): https://x.com/osman_hassabo?t=U1yOEacEQWrLUiPs8JHypw&s=09
 Facebook: https://www.facebook.com/share/1CH1FcEJja/
-🤝 Contribution & Thanks
-Inspired by community needs in Sudan.
 
-UI based on open-source tutorials adapted for volunteer work context.
